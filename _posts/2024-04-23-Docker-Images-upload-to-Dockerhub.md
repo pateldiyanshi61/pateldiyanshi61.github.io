@@ -24,7 +24,7 @@ We'll outline the steps for uploading Docker container images to Docker Hub.Cert
 ![alt text](/images/7.png )
 3.Now open the Command Prompt
 ![alt text](/images/7.png )
-4.Now login into your Docker Hub Account using Command Line.
+4.Now login into your Docker Hub account using Command Line.
 Command: docker login -u diyanshipatel61
 ![Login in Docker Hub](/images/3.png )
 ![alt text](/images/7.png )
